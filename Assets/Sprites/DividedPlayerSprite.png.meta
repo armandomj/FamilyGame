@@ -1,0 +1,187 @@
+fileFormatVersion: 2
+guid: 4836c97509ce9db4eba7b8a4825ead7a
+timeCreated: 1426436214
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: DividedPlayerSprite_0
+    21300002: DividedPlayerSprite_1
+    21300004: DividedPlayerSprite_2
+    21300006: DividedPlayerSprite_3
+    21300008: DividedPlayerSprite_4
+    21300010: DividedPlayerSprite_5
+    21300012: DividedPlayerSprite_6
+    21300014: DividedPlayerSprite_7
+    21300016: DividedPlayerSprite_8
+    21300018: DividedPlayerSprite_9
+    21300020: DividedPlayerSprite_10
+    21300022: DividedPlayerSprite_11
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: DividedPlayerSprite_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 32
+        width: 56
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DividedPlayerSprite_1
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 87
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DividedPlayerSprite_2
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 87
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DividedPlayerSprite_3
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 77
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DividedPlayerSprite_4
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 77
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DividedPlayerSprite_5
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 57
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DividedPlayerSprite_6
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 41
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DividedPlayerSprite_7
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 38
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DividedPlayerSprite_8
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 16
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DividedPlayerSprite_9
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 16
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DividedPlayerSprite_10
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 17
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DividedPlayerSprite_11
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 17
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

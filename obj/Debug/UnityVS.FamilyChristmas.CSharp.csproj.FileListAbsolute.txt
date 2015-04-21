@@ -1,0 +1,11 @@
+C:\Mi Disco\Proyectos Unity3D\FamilyChristmas\Temp\UnityVS_bin\Debug\Assembly-CSharp.dll
+C:\Mi Disco\Proyectos Unity3D\FamilyChristmas\Temp\UnityVS_bin\Debug\Assembly-CSharp.pdb
+C:\Mi Disco\Proyectos Unity3D\FamilyChristmas\Temp\UnityVS_bin\Debug\UnityEditor.dll
+C:\Mi Disco\Proyectos Unity3D\FamilyChristmas\Temp\UnityVS_bin\Debug\UnityEngine.dll
+C:\Mi Disco\Proyectos Unity3D\FamilyChristmas\Temp\UnityVS_bin\Debug\UnityEngine.UI.dll
+C:\Mi Disco\Proyectos Unity3D\FamilyChristmas\Temp\UnityVS_bin\Debug\UnityEngine.xml
+C:\Mi Disco\Proyectos Unity3D\FamilyChristmas\Temp\UnityVS_bin\Debug\UnityEditor.xml
+C:\Mi Disco\Proyectos Unity3D\FamilyChristmas\Temp\UnityVS_bin\Debug\UnityEngine.UI.xml
+C:\Mi Disco\Proyectos Unity3D\FamilyChristmas\obj\Debug\UnityVS.FamilyChristmas.CSharp.csprojResolveAssemblyReference.cache
+C:\Mi Disco\Proyectos Unity3D\FamilyChristmas\obj\Debug\Assembly-CSharp.dll
+C:\Mi Disco\Proyectos Unity3D\FamilyChristmas\obj\Debug\Assembly-CSharp.pdb
